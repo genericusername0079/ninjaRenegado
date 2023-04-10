@@ -3,9 +3,15 @@
 	Hanzo, nosso personagem principal é um ninja renegado que foi exilado de sua vila devido a um crime que ele não cometeu 
 	e agora precisa lutar para recuperar sua honra e provar sua inocência. 
 
-Após a renegaçao de sua via, o ninja escondeu os segredos da magia shi que concede poder sobre as  4 elemntos da naturesa
+Após a renegaçao de sua via, o ninja escondeu os segredos da magia shi que concede poder sobre as  4 elemntos da naturesa.
+ e com sede de odio pela propria vila ele ira fazer de tudo para vingar todos que exilaram de sua vila e ira destruir a vila dos outras ninjas para obter
+  mais forte e ser o mais poderoso 
 
 
+  inicio:
+
+  começa num flashback com o pequeno hanzo andando numa rua cheia de ninjas converçando mas o pequeno ninja esta sozinha como
+   se tivesse nimguem  em volta os unicos "amigos" que tinha era apenas uma outra criança e um velho senhor 
 
 
 
